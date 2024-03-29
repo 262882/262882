@@ -1,4 +1,4 @@
-### A space for personal projects
+### A space for personal projects and MSc related things
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=262882&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
